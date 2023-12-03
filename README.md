@@ -14,7 +14,7 @@ Usage:
 - ./permutations <[WORD] | [WORD_ONE] [WORD_TWO] [...]>
 
 Building:
-- compile with any C compiler.
+- Compile with any C compiler.
 ``````
 
 ### Examples:
